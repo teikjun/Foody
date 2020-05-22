@@ -35,7 +35,7 @@ When deploying to Heroku, you must set the `DATABASE_URL` environment variable t
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://id.heroku.com/login)
 
 ## How do I customize my application?
-Please visit the frontend or backend folder for the documentation on how to test your application locally.
+Please visit the frontend or backend folder for the documentation on how customize your application and test it locally.
 
 ## Feedback 
 Have you used Foody or are you planning to use it? I'd love to hear how effective it was. 
