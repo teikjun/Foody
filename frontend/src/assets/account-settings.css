@@ -1,0 +1,7 @@
+.ac-modal .modal-content {
+  align-items: center;
+}
+.ac-modal .modal-header {
+  align-items: center;
+  flex-direction: column;
+}

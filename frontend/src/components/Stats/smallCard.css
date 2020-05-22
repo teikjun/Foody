@@ -1,0 +1,18 @@
+.smallCard-container {
+  border: var(--darkgrey) 1px solid;
+  border-radius: var(--xs);
+  margin-top: var(--m);
+}
+
+.smallCard-container:first-of-type {
+  margin-top: var(--l);
+}
+
+.smallCard-story {
+  padding: var(--m) var(--l);
+}
+
+.smallCard-storyContent {
+  font-size: 40px;
+  margin: var(--s) 0 0;
+}

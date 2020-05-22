@@ -1,0 +1,32 @@
+.Summary-container {
+  padding: 20px 0px 20px 0px;
+}
+
+.Summary-name {
+  font-size: 40px;
+  font-weight: 300;
+}
+
+.Summary-subName {
+  font-size: 30px;
+  font-weight: 300;
+}
+
+.Summary-line {
+  border-color: var(--grey);
+}
+
+.Summary-subContainer {
+  flex-grow: 1;
+  flex-basis: 0;
+}
+
+.Summary-subContainer + .Summary-subContainer {
+  margin-left: var(--m);
+}
+
+.Summary-subTitle {
+  font-weight: 300;
+  font-size: 24px;
+  margin: var(--m) var(--s);
+}

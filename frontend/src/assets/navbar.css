@@ -1,0 +1,9 @@
+.dropdown-item:active {
+  background-color: transparent !important;
+  color: black !important;
+}
+
+a:hover {
+  border-bottom: solid 0.5px white;
+  text-decoration: none !important;
+}
