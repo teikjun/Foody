@@ -1,5 +1,5 @@
 # Foody Backend
-Backend for Foody written in Express with Postgres DB. The backend exposes a set of API, which are used by the frontend.
+Backend for Foody written in Express with Postgres DB. The backend exposes an API which is used by the frontend.
 
 ## Setup
 Ensure that you have postgresql 12 on your system. 
