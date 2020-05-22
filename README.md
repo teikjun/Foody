@@ -14,7 +14,7 @@ If you are planning to cook and deliver the food by yourself, then you are the r
 Customers can view a list of available food items and their reviews, and place their orders accordingly. 
 After receiving their order, they can also write reviews for the order.
 
-![Imgur](https://imgur.com/WxAvR6Y.png)
+![Imgur](https://imgur.com/WxAvR6Y.png | width=500)
 
 ### Riders
 Riders can indicate their working hours and accept orders to deliver to Customers. Upon delivering the food, the riders can get paid.
@@ -26,7 +26,7 @@ Restaurant staff can manage the availability of food items.
 ### Managers
 Managers can view monthly statistics of the food delivery business.
 
-![Imgur](https://imgur.com/6JZQxcW.png)
+![Imgur](https://imgur.com/6JZQxcW.png | width=500)
 
 ## Quickstart
 Make sure that you have postgresql 12 on your machine.
