@@ -1,5 +1,5 @@
 # Foody Frontend
-Frontend for Foody written in ReactJS
+Frontend for Foody written in ReactJS. The frontend communicates with the backend via the API exposed by the backend.
 
 ## Setup
 Ensure that you have the latest version of npm on your machine
