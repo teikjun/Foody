@@ -7,4 +7,4 @@ Ensure that you have the latest NodeJS version installed, as well as the latest 
 `cd` to the folder, run `npm install` followed by `npm start` to start running the express server
 
 ## Database ER Diagram
-[Imgur](https://i.imgur.com/stD91y0.png)
+![Imgur](https://i.imgur.com/stD91y0.png)
