@@ -12,4 +12,6 @@ To test the application locally, `cd` to the folder, run `npm install` followed 
 
 
 ## Database ER Diagram
+If you need to modify the SQL queries, you may refer to the ER diagram here for reference.
+
 ![Imgur](https://i.imgur.com/stD91y0.png)
