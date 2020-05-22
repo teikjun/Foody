@@ -9,6 +9,7 @@ Foody is a food delivery application, which you can customize and extend accordi
 ## Quickstart
 Make sure that you have postgresql 12 on your machine.
 When deploying to Heroku, you must set the `DATABASE_URL` environment variable to your database url.
+
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com)
 
 ## How do I customize my application?
