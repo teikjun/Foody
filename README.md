@@ -26,7 +26,7 @@ Restaurant staff can manage the availability of food items.
 ### Managers
 Managers can view monthly statistics of the food delivery business.
 
-![Imgur](https://i.imgur.com/pxz9wzv.png)
+![Imgur](https://i.imgur.com/sIiQ9Kw.png)
 
 ## Quickstart
 Make sure that you have postgresql 12 on your machine.
