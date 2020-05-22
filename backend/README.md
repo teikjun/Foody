@@ -1,4 +1,4 @@
-# FDS-Backend
+# Foody Backend
 Backend for Foody written in Express with Postgres DB
 
 ## Setup
