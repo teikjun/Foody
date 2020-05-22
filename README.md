@@ -14,7 +14,7 @@ If you are planning to cook and deliver the food by yourself, then you are the r
 Customers can view a list of available food items and their reviews, and place their orders accordingly. 
 After receiving their order, they can also write reviews for the order.
 
-![Imgur](https://i.imgur.com/ADD2dTV.png)
+![Imgur](https://i.imgur.com/eZi4gao.png)
 
 ### Riders
 Riders can indicate their working hours and accept orders to deliver to Customers. Upon delivering the food, the riders can get paid.
