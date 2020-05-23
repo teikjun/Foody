@@ -10,6 +10,12 @@ Foody provides a simple interface for customers, riders (who deliver the food), 
 If you are planning to cook and deliver the food by yourself, then you are the rider, restaurant staff and manager at the same time.
 
 ## Features
+
+### Authentication
+Foody provides accounts for Customers, Riders, Restaurant Staffs and Managers. The user will be able to use different features depending on the type of account.
+
+<img src="https://imgur.com/8D1Tbme.jpg" width="500">
+
 ### Customers
 Customers can view a list of available food items and their reviews, and place their orders accordingly. 
 After receiving their order, they can also write reviews for the order.
