@@ -26,7 +26,7 @@ After receiving their order, they can also write reviews for the order.
 Riders can indicate their working hours and accept orders to deliver to Customers. Upon delivering the food, the riders can get paid.
 
 ### Restaurant Staff
-Restaurant staff can manage the availability of food items.
+Restaurant staff can manage the availability and price of food items.
 
 
 ### Managers
